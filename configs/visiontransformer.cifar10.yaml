@@ -1,0 +1,8 @@
+img_size: 32
+patch_size: 4
+in_channels: 3
+num_classes: 10
+embed_dim: 256
+layers: 2
+num_heads: 4
+d_ff: 1024
